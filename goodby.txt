@@ -1,7 +1,8 @@
-print ('goodby world')
-print('good)
+print ('goodby world');
+print('good);
 
 
-hello world
+hello world;
 
-world hello
+world hello;
+
