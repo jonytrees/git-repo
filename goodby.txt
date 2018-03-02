@@ -1,2 +1,8 @@
-print ('goodby world'); 
+print ('goodby world');
 print('good);
+
+
+hello world;
+
+world hello;
+
